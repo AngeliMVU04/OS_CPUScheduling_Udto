@@ -79,28 +79,3 @@ Each program is written in **Python** and demonstrates how different CPU schedul
 | **FCFS** | P1 → P3 → P2 |
 | **SJF** | P1 → P2 → P3 |
 | **RR** | P1 → P2 → P1 → P3 → P2 → P3 |
-
----
-
-## 📂 Repository Structure
-
-## OS_CPUScheduling_Lastname/
-│
-├── fcfs.py
-├── sjf.py
-├── rr.py
-├── README.md
-└── screenshots/
-├── fcfs_output.png
-├── sjf_output.png
-└── rr_output.png
-
----
-
-## 👩‍💻 How to Run
-Run each Python file in your terminal:
-
-```bash
-python fcfs.py
-python sjf.py
-python rr.py
